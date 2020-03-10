@@ -6,6 +6,10 @@ import org.springframework.context.annotation.Configuration;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/**
+ * Configuration properties of bootstrap address and topic names
+ */
+
 @Configuration
 @NoArgsConstructor
 @Data
