@@ -1,0 +1,7 @@
+kafka:
+    bootstrapAddress: localhost:9092
+    topic1: newTopic
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
